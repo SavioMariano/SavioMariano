@@ -4,7 +4,7 @@ Sou um estudante de tecnologia com foco em desenvolvimento backend, atualmente m
 
 ## 🚀 Principais Repositórios
 
-- **[java-spring-boot](https://github.com/SavioMariano/java-spring-boot)**: Projeto explorando o framework Spring Boot, essencial para desenvolvimento de aplicações robustas em Java.
+- **[Bot-IARA](https://github.com/SavioMariano/bot-IARA)**: Chatbot desenvolvido com Spring Boot, explorando boas práticas e escabilidade.
 
 - **[java-collections](https://github.com/SavioMariano/java-collections)**: Um repositório dedicado ao estudo de coleções em Java, abrangendo listas, conjuntos, mapas e mais.
 
